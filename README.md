@@ -2,7 +2,7 @@
 
 ## spesifikasi :
 - Bootloader Opencore 0.6.2
-- processor core i3 3120
+- processor core i3 3210M
 - vga intel hd 4000
 - audio alc269 layout-id 28
 - Ethernet RTL8168E-VL
