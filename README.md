@@ -23,6 +23,9 @@
 - VGA port
 - WLAN not support by hackintos
 
+## Not Test :
+- Display Port
+
 ## Patch SSDT:
 - PNLF (Fix Brightness)
 - PM (CPU power management)
