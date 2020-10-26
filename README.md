@@ -19,6 +19,7 @@
 - Sleep
 - shotdown
 - Restart
+- SMBIOS MacBookPro10,2 ( Ivy Bridge(M) )
 ## Not Working :
 - VGA port
 - WLAN not support by hackintos
