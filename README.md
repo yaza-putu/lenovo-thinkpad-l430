@@ -34,7 +34,7 @@
 - XOSI (Makes all _OSI calls specific to Windows work for macOS (Darwin) Identifier. This may help enabling some features like XHCI and others.)
 - IMEI (Needed to add a missing IMEI device on Ivy Bridge)
 - HPET (Fixing IRQ Conflicts) https://dortania.github.io/Getting-Started-With-ACPI/Universal/irq.html
-- SSDT-SBUS-MCHC.aml fix SMBUS
+- SBUS-MCHC fix SMBUS
 
 ## Patch Log:
 - 20-10-2020 fixing Checksum CMOS Failur on booting with patch RTC, Set Kernel > Quirk > DisableRtcChecksum as True
