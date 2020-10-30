@@ -1,4 +1,5 @@
 # lenovo-thinkpad-l430
+![lenovo thinkpad l430](https://res.cloudinary.com/dk0053zbe/image/upload/v1604047563/wp_lkr4kr.jpg)
 
 ## spesifikasi :
 - Bootloader Opencore 0.6.2
