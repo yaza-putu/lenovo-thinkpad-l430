@@ -295,6 +295,8 @@
 				<integer>4</integer>
 				<key>framebuffer-stolenmem</key>
 				<data>AAAABA==</data>
+				<key>igfxfw</key>
+				<data>AgAAAA==</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
