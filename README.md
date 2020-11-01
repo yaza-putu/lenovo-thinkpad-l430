@@ -44,7 +44,4 @@
 igfxfw | Data | <02 00 00 00>
 ```
 - 30-10-2020 Fixing SMBUS https://dortania.github.io/Getting-Started-With-ACPI/Universal/smbus-methods/manual.html#finding-the-acpi-path
-
-
-
-
+- 02-11-2020 add YogaSMC for Allow syncing SMC keys like sensors reading and battery conservation mode. https://github.com/zhen-zen/YogaSMC
