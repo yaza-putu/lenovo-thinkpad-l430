@@ -2,7 +2,7 @@
 ![lenovo thinkpad l430](https://res.cloudinary.com/dk0053zbe/image/upload/v1604047563/wp_lkr4kr.jpg)
 
 ## spesifikasi :
-- Bootloader Opencore 0.6.2
+- Bootloader Opencore 0.6.4
 - processor core i3 3120M (Ivy Bridge)
 - vga intel hd 4000
 - audio alc269 layout-id 28
