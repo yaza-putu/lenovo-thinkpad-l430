@@ -57,6 +57,7 @@ igfxfw | Data | <02 00 00 00>
 - 02-11-2020 add YogaSMC for Allow syncing SMC keys like sensors reading and battery conservation mode,Currently Yoga, IdeaPad and ThinkPad series are supported. https://github.com/zhen-zen/YogaSMC 
 - 04-11-2020 change ApplePS2SmartTouchPad.kext to VoodooPS2Controller V2.1.8 Fixed dynamic coordinate refresh for ELAN v3 touchpads https://github.com/acidanthera/VoodooPS2/releases/tag/2.1.8
 - 13-11-2020 fix usb map and rename  EHC1 to EH01, EHC2 to EH02 for detail see https://dortania.github.io/OpenCore-Post-Install/usb/system-preparation.html
+- 09-12-2020 Downgrade opencore 0.6.4 to 0.6.3 
 
 ## Update Bootloader Log
 - 09-12-2020 Update bootloader opencore 0.6.2 to 0.6.4
