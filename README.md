@@ -38,6 +38,15 @@
 - HPET (Fixing IRQ Conflicts) https://dortania.github.io/Getting-Started-With-ACPI/Universal/irq.html
 - SBUS-MCHC fix SMBUS
 
+## Kext Version Control
+- AppleALC              : V1.5.5 (RELEASE)
+- Lilu                  : V1.5.0 (RELEASE)
+- RealtekRTL8111        : V2.3.0 (RELEASE)
+- VirtualSMC            : V1.1.9 (RELEASE)
+- VoodooPS2Controller   : V2.1.9 (RELEASE)
+- WhateverGreen         : V1.4.5 (RELEASE)
+- YogaSMC               : V1.3.0 (RELEASE)
+- USBMap                : Generated (CUSTOM)
 ## Patch Log:
 - 20-10-2020 fixing Checksum CMOS Failur on booting with patch RTC, Set Kernel > Quirk > DisableRtcChecksum as True
 - 30-10-2020 Fixing iGPU performance with add Under DeviceProperties -> Add -> PciRoot(0x0)/Pci(0x2,0x0)
@@ -48,3 +57,6 @@ igfxfw | Data | <02 00 00 00>
 - 02-11-2020 add YogaSMC for Allow syncing SMC keys like sensors reading and battery conservation mode,Currently Yoga, IdeaPad and ThinkPad series are supported. https://github.com/zhen-zen/YogaSMC 
 - 04-11-2020 change ApplePS2SmartTouchPad.kext to VoodooPS2Controller V2.1.8 Fixed dynamic coordinate refresh for ELAN v3 touchpads https://github.com/acidanthera/VoodooPS2/releases/tag/2.1.8
 - 13-11-2020 fix usb map and rename  EHC1 to EH01, EHC2 to EH02 for detail see https://dortania.github.io/OpenCore-Post-Install/usb/system-preparation.html
+
+## Update Bootloader Log
+- 09-12-2020 Update bootloader opencore 0.6.2 to 0.6.4
