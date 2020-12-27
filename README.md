@@ -22,12 +22,10 @@
 - Restart
 - SMBIOS MacBookPro10,2 ( Ivy Bridge(M) )
 - Brightness, Fn + p (brightness up) and Fn + k (brightness down)
+- Display Port
 ## Not Working :
 - VGA port
 - WLAN not support by hackintos
-
-## Not Test :
-- Display Port
 
 ## Patch SSDT:
 - PNLF (Fix Brightness)
