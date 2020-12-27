@@ -45,6 +45,12 @@
 - WhateverGreen         : V1.4.5 (RELEASE)
 - YogaSMC               : V1.3.0 (RELEASE)
 - USBMap                : Generated (CUSTOM)
+
+## Issue
+- Wrong sensor reader in audio LED when wakeup sleep 
+- Audio muted when wakeup sleep 
+
+
 ## Patch Log:
 - 20-10-2020 fixing Checksum CMOS Failur on booting with patch RTC, Set Kernel > Quirk > DisableRtcChecksum as True
 - 30-10-2020 Fixing iGPU performance with add Under DeviceProperties -> Add -> PciRoot(0x0)/Pci(0x2,0x0)
