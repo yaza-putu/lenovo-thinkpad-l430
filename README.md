@@ -7,7 +7,7 @@
 - vga intel hd 4000
 - audio alc269 layout-id 28
 - Ethernet RTL8168E-VL
-- WLAN INTEL Centrino Advance 6025
+- Intel(R) Centrino(R) Advanced-N 6205
 - Intel 7 Series Chipset
 - Touchpad ELAN
 
