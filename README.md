@@ -23,9 +23,9 @@
 - SMBIOS MacBookPro10,2 ( Ivy Bridge(M) )
 - Brightness, Fn + p (brightness up) and Fn + k (brightness down)
 - Display Port
+- WLAN Intel(R) Centrino(R) Advanced-N 6205
 ## Not Working :
 - VGA port
-- WLAN not support by hackintos
 
 ## Patch SSDT:
 - PNLF (Fix Brightness)
@@ -37,13 +37,13 @@
 - SBUS-MCHC fix SMBUS
 
 ## Kext Version Control
-- AppleALC              : V1.5.5 (RELEASE)
-- Lilu                  : V1.5.0 (RELEASE)
-- RealtekRTL8111        : V2.3.0 (RELEASE)
-- VirtualSMC            : V1.1.9 (RELEASE)
-- VoodooPS2Controller   : V2.1.9 (RELEASE)
-- WhateverGreen         : V1.4.5 (RELEASE)
-- YogaSMC               : V1.3.0 (RELEASE)
+- AppleALC              : V1.6.1 (RELEASE)
+- Lilu                  : V1.5.3 (RELEASE)
+- RealtekRTL8111        : V2.4.2 (RELEASE)
+- VirtualSMC            : V1.2.4 (RELEASE)
+- VoodooPS2Controller   : V2.2.3 (RELEASE)
+- WhateverGreen         : V1.5.0 (RELEASE)
+- YogaSMC               : V1.5.1 (RELEASE)
 - USBMap                : Generated (CUSTOM)
 
 ## Issue
@@ -63,6 +63,7 @@ igfxfw | Data | <02 00 00 00>
 - 13-11-2020 fix usb map and rename  EHC1 to EH01, EHC2 to EH02 for detail see https://dortania.github.io/OpenCore-Post-Install/usb/system-preparation.html
 - 09-12-2020 Downgrade opencore 0.6.4 to 0.6.3 
 - 27-12-2020 Fixing output display port, white screen when charger pluged
+- 17-06-2021 add kext intel wireless + Heliport for enable wifi https://github.com/OpenIntelWireless/itlwm
 
 ## Update Bootloader Log
 - 09-12-2020 Update bootloader opencore 0.6.2 to 0.6.4
