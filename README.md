@@ -45,6 +45,7 @@
 - WhateverGreen         : V1.5.0 (RELEASE)
 - YogaSMC               : V1.5.1 (RELEASE)
 - USBMap                : Generated (CUSTOM)
+- itlwm                 : V2.0.0 (STABLE)
 
 ## Issue
 - Wrong sensor reader in audio LED when wakeup sleep 
@@ -64,6 +65,7 @@ igfxfw | Data | <02 00 00 00>
 - 09-12-2020 Downgrade opencore 0.6.4 to 0.6.3 
 - 27-12-2020 Fixing output display port, white screen when charger pluged
 - 17-06-2021 add kext intel wireless + Heliport for enable wifi https://github.com/OpenIntelWireless/itlwm
+- 08-08-2021 update kext itlwm V1.3.0 => V2.0.0 detail fixing https://github.com/OpenIntelWireless/itlwm/releases
 
 ## Update Bootloader Log
 - 09-12-2020 Update bootloader opencore 0.6.2 to 0.6.4
