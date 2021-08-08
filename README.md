@@ -71,5 +71,5 @@ igfxfw | Data | <02 00 00 00>
 - 09-12-2020 Update bootloader opencore 0.6.2 to 0.6.4
 - 09-12-2020 Downgrade opencore 0.6.4 to 0.6.3 , ditemukan bug yg fatal, saat booting muncul error OC : failed load condiguration
 
-## App
-- Heliport V1.4.1 https://github.com/OpenIntelWireless/HeliPort/releases (if use itlwm V2.0.0 must be use Heliport V1.4.1 to have good performace)
+## NOTE
+- if use itlwm V2.0.0 must be use Heliport V1.4.1 to have good performace (https://github.com/OpenIntelWireless/HeliPort/releases)
